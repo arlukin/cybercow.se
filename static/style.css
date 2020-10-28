@@ -1,0 +1,53 @@
+h1
+{
+	margin: 0cm 0cm 0cm 0cm;
+	text-align: center;
+}
+
+img
+{
+  opacity:1;;
+  border: 0px;
+  margin: 0px;  
+}
+
+a:hover img
+{
+  opacity:0.5;
+}
+
+div.logos
+{  
+	border: 0px solid;	
+  text-align: center;
+  vertical-align: middle;		  
+}
+
+.sites
+{
+  text-align: center;
+}
+
+.site
+{
+	display:inline-table;
+	width: 340px;
+	height: 310px;	
+	border: 1px solid;	
+	margin: 5px;
+}
+
+.desc
+{		
+	text-align: left;
+	font-weight: normal;
+  font-family: Lucida Grande, Lucida Sans Unicode, Arial, Helvetica, Sans-Serif;
+  font-size: 11px;
+  color: #233825;  
+}
+
+.footer
+{
+  width: 100%;
+  float: left;
+}
