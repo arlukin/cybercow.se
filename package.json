@@ -1,14 +1,14 @@
 {
-  "name": "gatsby-starter-hyperspace",
+  "name": "cybercow.se",
   "version": "0.0.1",
-  "description": "Gatsby.js V2 starter template based on Hyperspace by HTML5 UP",
+  "description": "Daniel Lindh - personal webpage",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/anubhavsrivastava/gatsby-starter-hyperspace.git"
+    "url": "git+https://github.com/arlukin/cybercow.se.git"
   },
   "author": {
-    "name": "Anubhav Srivastava",
-    "email": "anubhav.srivastava00@gmail.com"
+    "name": "Daniel Lindh",
+    "email": "daniel@cybercow.se"
   },
   "dependencies": {
     "gatsby": "^2.20.2",
@@ -35,14 +35,9 @@
     "prettier": "^1.18.2",
     "rimraf": "^3.0.2"
   },
-  "keywords": [
-    "gatsby",
-    "gatsby-starter",
-    "gatsby-starter-aerial"
-  ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/anubhavsrivastava/gatsby-starter-aerial/issues"
+    "url": "https://github.com/arlukin/cybercow.se/issues"
   },
-  "homepage": "https://github.com/anubhavsrivastava/gatsby-starter-aerial#readme"
+  "homepage": "https://cybercow.se"
 }

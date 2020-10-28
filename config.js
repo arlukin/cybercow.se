@@ -14,14 +14,14 @@ module.exports = {
   authorHeading: 'Unicorn Breeder - Business Developer - System Architect - System Developer - System Operator',
   authorSocialLinks: [
     {
+      icon: 'fa-linkedin',
+      name: 'Linkedin',
+      url: 'https://www.linkedin.com/in/therealdaniellindh',
+    },
+    {
       icon: 'fa-github',
       name: 'Github',
       url: 'https://github.com/arlukin',
-    },
-    {
-      icon: 'fa-facebook',
-      name: 'Facebook',
-      url: 'https://facebook.com/arlukin',
     },
     {
       icon: 'fa-envelope-o',
