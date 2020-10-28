@@ -13,4 +13,12 @@ Available URLs
     nvm use
     npm install --global gatsby-cli
     npm install
-    gatsby develop
+    npm run develop
+
+## Release to github
+
+This command will build and release the webpage to github pages.
+That is stored in the branch gh-pages
+
+    npm run deploy
+
